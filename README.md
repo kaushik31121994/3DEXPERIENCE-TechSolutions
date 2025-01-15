@@ -1,2 +1,2 @@
-# 3DEXPERIENCE-TechSolutions
-Showcasing experimental developments, integrations, and innovative functionalities in Dassault Systèmes' 3DEXPERIENCE platform.
+A standalone java program to authenticate to the 3DEXPERIENCE platform server and to generate the CSRF token to call any of the Out-of-the-box or custom Webservices available in the server's stack. 
+All the steps manually executed through postman to authenticate to the server has been streamlined into a single program. we can configure the required parameters such as the 3Dx platform URL, Username and password for this program. 
