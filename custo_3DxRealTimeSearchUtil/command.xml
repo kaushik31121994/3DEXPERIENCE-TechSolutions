@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<component type="ui3" name="comamnd" version="R2021x">
+    <schema>
+        <basic name="ABBRealTimeSearch" description="" hidden="false" registryName="" overlay="true"/>
+        <field type="commanddetails">
+            <detail name="label" value="ABB Search"/>
+            <detail name="href" value="${SUITE_DIR}/ABBRealTimeSearch.jsp"/>
+            <detail name="alt"/>
+            <detail name="code" value=""/>
+            <setting>
+                <param name="Registered Suite" value="ABBSupportCentral"/>
+                <param name="Target Location" value="popup"/>
+            </setting>
+            <accessdetail>
+                <access name="user" value="all"/>
+            </accessdetail>
+        </field>
+    </schema>
+</component>
