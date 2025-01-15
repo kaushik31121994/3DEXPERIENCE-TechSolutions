@@ -1,2 +1,2 @@
-# 3DEXPERIENCE-TechSolutions
-Showcasing experimental developments, integrations, and innovative functionalities in Dassault Systèmes' 3DEXPERIENCE platform.
+Scenario:
+A Customer wished to upgrade from 3DEXPERIENCE 2018x to 2021x. We do know that the real-time search was removed by DS from R2019x onwards. The business users who were so habituated to the real-time search wanted this feature back in the upgraded release. They basically wanted to narrow down the search results by adding a lot of filters to a limited set so that they can easilly identify the objects. We made a look-alike popup window using a custom jsp, incorparting a lot of HTML elements, javascript functions, AJAX calls to send requests to the server and display the results. AEFGeneralSearchResultsTable was used. 
